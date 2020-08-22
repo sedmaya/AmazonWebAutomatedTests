@@ -1,0 +1,34 @@
+<suite name="AmazonsPositiveTests" verbose="2">
+    <parameter name="selenium.browser" value="*chrome"/>
+    <parameter name="selenium.url" value="https://www.amazon.com/"/>
+
+    <test name="MainFunctionalityTests">
+        <classes>
+            <class name="tests.LanguageAndCountryPreferenceTests">
+                <methods>
+                    <include name="checkLanguageChanges"/>
+                    <include name="checkCountryChanges"/>
+                    <include name="checkDeliveryCountryChanges"/>
+                </methods>
+            </class>
+            <class name="tests.SearchTests">
+                <methods>
+                    <include name="checkThatSearchResultsContainsSearchWord"/>
+                    <include name="checkElementsAmountOnSearchPage"/>
+                </methods>
+            </class>
+            <class name="tests.ItemPriceAndQuantityTests">
+                <methods>
+                    <include name="checkCorrectSizeIsSelected"/>
+                    <include name="checkDiscountIsCorrect"/>
+                </methods>
+            </class>
+            <class name="tests.ActionsWithCartTests">
+                <methods>
+                    <include name="checkAmountInCart"/>
+                    <include name="checkCartIsEmpty"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,486 @@
+[0818/200121.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff6724b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7980000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4bb0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff868cc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome_elf.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8ad270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7560000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b58b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b61e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0818/200121.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6290000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff837400000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6bb0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7760000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b57f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5930000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f80010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4900000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4840000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b56a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b3da0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8aa620000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff89f170000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4720000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b48d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff885a50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8a1540000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff884af0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0818/200121.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b3130000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b07b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8ad350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6ba0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8aa5f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5620000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b2f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4750000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6d90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4880000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4830000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\UMPDC.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7830000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6040000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cryptsp.dll
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6cc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0818/200121.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff6724b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7980000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4bb0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff868cc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome_elf.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8ad270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7560000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b58b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b61e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6290000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff837400000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6bb0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7760000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.406:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0818/200121.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b57f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5930000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f80010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4900000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4840000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b56a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b3da0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8aa620000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff89f170000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4720000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b48d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff885a50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8a1540000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff884af0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b3130000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b07b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8ad350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6ba0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8aa5f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5620000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0818/200121.407:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b2f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.407:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4750000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6d90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4880000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4830000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\UMPDC.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7830000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6040000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cryptsp.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6cc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff6724b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7980000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4bb0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff868cc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome_elf.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8ad270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7560000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0818/200121.408:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b58b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.408:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b61e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6290000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff837400000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6bb0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7760000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b57f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5930000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f80010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4900000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4840000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b56a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b3da0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8aa620000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff89f170000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4720000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b48d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff885a50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8a1540000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff884af0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0818/200121.409:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.409:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b3130000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b07b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8ad350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6ba0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8aa5f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5620000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b2f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4750000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6d90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4880000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4830000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\UMPDC.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7830000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6b00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6040000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b5890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cryptsp.dll
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b6cc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0818/200121.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.410:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0818/200121.421:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cfde7000 of 102400 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.421:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d05fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.421:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d15fc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.421:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d1dfc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.421:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d25ff000 of 4096 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.421:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d2dfd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d35fb000 of 20480 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d45fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d4df6000 of 40960 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d55f6000 of 40960 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d5df9000 of 28672 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d65f6000 of 40960 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d6dfc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d95fc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d9dfc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d3dfd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d7dfd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d85fc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85d0dfd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf400000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf402000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf404000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf406000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf40a000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf40c000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf40e000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf410000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf412000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf414000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf41e000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf420000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf422000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf426000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf428000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf42a000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf5f7000 of 852 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf5f8000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf5fa000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x85cf5fe000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f819ae330 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f81dd3f00 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f81ea9630 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f82759520 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f82759ce8 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f83aaa820 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f83e754c0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f83ff5c28 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19f841cb680 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e60fe0 of 6292 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e62880 of 1012 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e62ec8 of 118 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e62f40 of 1180 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e633de of 118 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e63456 of 96 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e634d0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e635d0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e63760 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e63920 of 126 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e63d00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e63e90 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e64050 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e642f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e64480 of 68 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e65620 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e657b0 of 154 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e67a80 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e67ad0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e67cc0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e6c0d0 of 54 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e6f480 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e6f88c of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e73560 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e74ee0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e75950 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e76760 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e768e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e76a10 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e76b40 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e76c70 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e76ed0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e77000 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e77130 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e77260 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e77390 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e774c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e775f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e77720 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e78fa0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e791c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e79520 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e79730 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7ac60 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7ad90 of 146 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7af40 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7cfa0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7cff0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d040 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d090 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d0e0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d180 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d1d0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d220 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d270 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d2c0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d310 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d450 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d4a0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d4f0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d540 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d5e0 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d6d0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d8b0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d950 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d9a0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7d9f0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7da40 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7db30 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7dbd0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7dc70 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.427:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7dcc0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e7f8d0 of 78 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e82e30 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e830e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e83340 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e83470 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e835a0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e836d0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e83800 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e83930 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e83a60 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e83b90 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84050 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84180 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e842b0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e843e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84510 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84640 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84770 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.428:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e848a0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e849d0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84b00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84c30 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e84d60 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e86760 of 76 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8e86880 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea6ed0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea71f0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea72e0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7330 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7380 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7420 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7510 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7c40 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7c90 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ea7d30 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8edb2c0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ee2fc0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ef7690 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8ef8990 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8efa510 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.429:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8f07360 of 736 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8f2d290 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8f45d10 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x19ff8f48d30 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff837900b8b of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff83e2a3738 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4bea699 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b4e1c6d0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7a1c074 of 672 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7a1c674 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7a1f924 of 608 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7aac428 of 18 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7adf4f8 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7adf978 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7ae53c0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8b7ae6300 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0818/200121.431:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0822/093908.935:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0822/093908.938:ERROR:exception_snapshot_win.cc(98)] thread ID 13992 not found in process
+[0822/093908.939:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)

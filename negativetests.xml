@@ -1,0 +1,14 @@
+<suite name="AmazonsNegativeTests" verbose="2">
+    <parameter name="selenium.browser" value="*chrome"/>
+    <parameter name="selenium.url" value="https://www.amazon.com/"/>
+
+    <test name="SearchTests">
+        <classes>
+            <class name="tests.SearchTests">
+                <methods>
+                    <include name="checkIncorrectSearchRequest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
